@@ -1,6 +1,6 @@
 export const resumeData = {
   name: "Abdul Karim Ansari",
-  title: "Node.js Backend Engineer (SDE-2)",
+  title: "Software Engineer (SDE-2)",
   tagline: "Specializing in Distributed Systems & Agentic AI Workflows",
   contact: {
     email: "abdulkarimansari2000@gmail.com",
@@ -10,7 +10,7 @@ export const resumeData = {
     linkedin: "linkedin.com/in/ak-ansari",
     availability: "30 Days"
   },
-  summary: "Node.js Backend Engineer (SDE-2) with 4+ years of experience building high-throughput distributed systems. Expert in NestJS, Kafka-based event-driven architecture, and Redis-driven performance optimization. Currently scaling agentic AI workflows and LLM-powered backend systems.",
+  summary: "Software Engineer (SDE-2) with 4+ years of experience building high-throughput distributed systems. Expert in NestJS, Kafka-based event-driven architecture, and Redis-driven performance optimization. Currently scaling agentic AI workflows and LLM-powered backend systems.",
   skills: [
     { category: "Languages", items: ["Node.js", "TypeScript", "Go", "JavaScript"] },
     { category: "Frameworks", items: ["NestJS", "Express.js", "REST APIs", "WebSockets", "gRPC"] },
