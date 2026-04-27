@@ -1,20 +1,39 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🚀 Personal Portfolio | Abdul Karim (AK)
 
-# Run and deploy your AI Studio app
+Welcome to my personal portfolio repository. This site serves as a central hub for my professional journey as a **Full-Stack Developer**, showcasing my technical expertise, featured projects, and contact information.
 
-This contains everything you need to run your app locally.
+## 🛠 Tech Stack
 
-View your app in AI Studio: https://ai.studio/apps/6fc7f1bc-3df1-48c6-9593-034edc76be0a
+**Frontend:**
+* **Frameworks:** Angular, React.js, Vue.js (Vuetify)
+* **Styling:** CSS3, Tailwind CSS, Material Design
 
-## Run Locally
+**Backend & Database:**
+* **Runtime:** Node.js
+* **Frameworks:** Express.js, Gin (Golang)
+* **Databases:** MongoDB, PostgreSQL
 
-**Prerequisites:**  Node.js
+**Tools & DevOps:**
+* **Version Control:** Git & GitHub
+* **Build Tools:** Vite, Webpack
 
+## ✨ Key Features
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+* **Responsive Design:** Optimized for a seamless experience across mobile, tablet, and desktop.
+* **Project Showcase:** Detailed cards for my latest work including live links and source code.
+* **Modern UI:** Built with clean code and high-performance design principles.
+* **Contact Form:** Integrated functionality for quick inquiries and networking.
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+### Prerequisites
+* Node.js (v18+)
+* npm or yarn
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/ak-ansari/portfolio.git](https://github.com/ak-ansari/portfolio.git)
